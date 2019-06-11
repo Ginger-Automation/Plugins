@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="57ee985e-e572-4117-b1cc-688f4d5625f2" Title="Ginger.Plugin.Platform.Web" Url="html/0f182ec3-9475-1b3b-c98d-71d2917292c4.htm">
+    <HelpTOCNode Id="c3508bda-cf60-481d-8f5b-2e624201cc8d" Title="IAlerts Interface" Url="html/8bda61be-0d4d-da94-203a-2b79ffc47c52.htm">
+      <HelpTOCNode Id="772ccd6b-0bee-45aa-afca-ef9362a330aa" Title="IAlerts Methods" Url="html/6a6e3ff5-309b-1807-0297-3852c71ab006.htm">
+        <HelpTOCNode Title="AcceptAlert Method " Url="html/1c6cc1a4-3b59-8a38-478f-c3e048abc8d1.htm" />
+        <HelpTOCNode Title="DismissAlert Method " Url="html/12350866-06a7-a4a0-7bd1-edcbd7cc662e.htm" />
+        <HelpTOCNode Title="GetAlertText Method " Url="html/731bc45e-2f67-ac8a-e69e-0f6e249e799b.htm" />
+        <HelpTOCNode Title="SendAlertText Method " Url="html/7cbdb8ea-6b96-bdc7-b0f8-aa624386fc35.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="18af6408-8317-4910-b7b9-50f163a85148" Title="IBrowserActions Interface" Url="html/c888bbda-9774-bdf5-ef5b-218097d1b9ec.htm">
+      <HelpTOCNode Id="457e2aab-89a2-4245-8fb9-d247a2f86138" Title="IBrowserActions Methods" Url="html/dacfae71-1e74-df5f-442f-d1bfd85b8893.htm">
+        <HelpTOCNode Title="CloseCurrentTab Method " Url="html/7e940df5-d904-6c55-dfcf-52bd7a30214e.htm" />
+        <HelpTOCNode Title="CloseWindow Method " Url="html/e0dcc5bc-f0df-6886-bbf4-8f6f4ac4c302.htm" />
+        <HelpTOCNode Title="DeleteAllCookies Method " Url="html/d641a6cd-1edc-82d0-9a64-d32af6f497ab.htm" />
+        <HelpTOCNode Title="ExecuteScript Method " Url="html/733137b6-210c-95a4-c9ad-b6d0dffcf68d.htm" />
+        <HelpTOCNode Title="FullScreen Method " Url="html/205b4b20-b7d5-93a3-2628-b64d5776d32e.htm" />
+        <HelpTOCNode Title="GetCurrentUrl Method " Url="html/63238803-a6e8-b17f-76b8-87a464b2c8a0.htm" />
+        <HelpTOCNode Title="GetTitle Method " Url="html/1c5aaabd-0adf-705f-8f29-3441d086fbcb.htm" />
+        <HelpTOCNode Title="GetWindowHandle Method " Url="html/532a9032-2278-e753-6425-f75a8468950b.htm" />
+        <HelpTOCNode Title="GetWindowHandles Method " Url="html/4fc70a9a-8ec1-bd2b-afc7-a37ffd08b3f9.htm" />
+        <HelpTOCNode Title="Maximize Method " Url="html/e4d36019-075c-711a-3aeb-0c71e2daaba1.htm" />
+        <HelpTOCNode Title="Minimize Method " Url="html/a72f274e-8724-a966-374e-fdf7d91c4696.htm" />
+        <HelpTOCNode Title="Navigate Method " Url="html/26203945-96df-a227-eece-551b40377e77.htm" />
+        <HelpTOCNode Title="NavigateBack Method " Url="html/c4fc4311-7160-5beb-06e4-8d5481900373.htm" />
+        <HelpTOCNode Title="NavigateForward Method " Url="html/f17197ad-5688-33cd-0671-c78a8319e1e7.htm" />
+        <HelpTOCNode Title="Refresh Method " Url="html/53eaa538-af16-04ae-e1f4-56dc0f47165c.htm" />
+        <HelpTOCNode Title="SwitchToFrame Method " Url="html/80728ea5-a422-73dd-a174-77543bbecc76.htm" />
+        <HelpTOCNode Title="SwitchToParentFrame Method " Url="html/09c730b4-6f63-e3a4-13f9-41e0cc27a521.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ba9b947b-1e94-401e-9a62-d9977e5c76db" Title="ICookiesHandling Interface" Url="html/2c0414ae-7d98-afab-8b58-baae0465fe1a.htm">
+      <HelpTOCNode Id="93fff788-e8de-4f70-aa99-9006af4ec887" Title="ICookiesHandling Methods" Url="html/1c59d83b-404d-4aa7-3552-741a9a75b68d.htm">
+        <HelpTOCNode Title="AddCookie Method " Url="html/91a61040-6f5f-6a13-014f-30b4aa570a11.htm" />
+        <HelpTOCNode Title="DeleteAllCookies Method " Url="html/d6d91b21-525a-a86f-88a2-48f829256e0f.htm" />
+        <HelpTOCNode Title="DeleteCookie Method " Url="html/2b44aee4-b1ec-37f8-9ac7-1db3257a0057.htm" />
+        <HelpTOCNode Title="GetAllCookies Method " Url="html/cc751445-1a39-d86c-533c-364415ccae99.htm" />
+        <HelpTOCNode Title="GetnamedCookie Method " Url="html/a2b255f2-0b1c-faab-0d61-4804ef026a92.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="27c2bec1-d6f9-4d0f-9346-655611573fde" Title="IWebPlatform Interface" Url="html/d39e4421-ec8a-ce59-5fe7-8282caa2b818.htm">
+      <HelpTOCNode Id="ade22aa7-5824-4e2b-8411-f81094e12af9" Title="IWebPlatform Properties" Url="html/db9eb5d1-4463-7437-c1ba-09a05b4aa6e8.htm">
+        <HelpTOCNode Title="Alerts Property " Url="html/5df92330-d2fc-e7b3-e8a9-15dd1d7a4dd5.htm" />
+        <HelpTOCNode Title="AutomaticallyShiftIframe Property " Url="html/13d7d918-769b-341c-00df-e4b993c3ff90.htm" />
+        <HelpTOCNode Title="BrowserActions Property " Url="html/895a5612-1d44-ef45-98f3-ac39189c790a.htm" />
+        <HelpTOCNode Title="LocateWebElement Property " Url="html/98e1a400-3345-d3b3-e1b3-59b27ca662bd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="2630ac06-bbd0-439e-b40c-7ad3db8844dc" Title="Ginger.Plugin.Platform.Web.Actions" Url="html/a81ff830-f631-b344-f833-354c1c062f8b.htm">
+    <HelpTOCNode Id="bdf042bd-7cc2-41c4-88e2-8f9ef5bea558" Title="IClick Interface" Url="html/73c748ba-05c0-4c9f-5934-22d5d492f483.htm">
+      <HelpTOCNode Id="f11e4032-a6f4-428e-a67a-047f33524568" Title="IClick Methods" Url="html/57d04ab5-aa00-ca80-7cab-faec45183303.htm">
+        <HelpTOCNode Title="Click Method " Url="html/0246e21f-458d-7b64-8881-05c76ba59109.htm" />
+        <HelpTOCNode Title="DoubleClick Method " Url="html/74d13593-f256-a719-c373-b052cfeba847.htm" />
+        <HelpTOCNode Title="JavascriptClick Method " Url="html/aefd0815-765f-7bc6-ccd8-3a1202c67f01.htm" />
+        <HelpTOCNode Title="MouseClick Method " Url="html/df1451a9-989b-d201-ff29-a6bac7cb2e7a.htm" />
+        <HelpTOCNode Title="MultiClick Method " Url="html/b0b95a7f-5f19-2f61-2939-7a002a4e3685.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e467b86d-b1ef-43d9-a76a-f2a90115cd0c" Title="IGetValue Interface" Url="html/c3f65c05-8c9a-2571-db49-cfcedefb6334.htm">
+      <HelpTOCNode Id="919e6bfe-b0fe-4b35-bfd0-708163224cab" Title="IGetValue Methods" Url="html/da226f91-4fb1-d647-822d-4a4a22975f0a.htm">
+        <HelpTOCNode Title="GetValue Method " Url="html/7ce0d281-2235-be8a-6ab0-06ec71e5cfa8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d6bdee67-064a-43ec-8836-5ca238d38a83" Title="ISelect Interface" Url="html/1e13b713-1654-b8e7-0905-103573602dae.htm">
+      <HelpTOCNode Id="ea18c9be-9b38-4b71-ab14-8dd099ba0ab2" Title="ISelect Methods" Url="html/fa29c47a-f454-ade5-43c7-33d063002a49.htm">
+        <HelpTOCNode Title="ClearValue Method " Url="html/1f109ad7-3606-b400-1d97-c608c681d259.htm" />
+        <HelpTOCNode Title="GetSelectedValue Method " Url="html/269b8fb5-06b2-306e-9021-f154e5821093.htm" />
+        <HelpTOCNode Title="GetValidValue Method " Url="html/985edde5-39a8-8f1d-9c79-df9ef5b5a67b.htm" />
+        <HelpTOCNode Title="IsValuePopulated Method " Url="html/188f376f-90a5-53ed-f9b2-e1bca021d3bf.htm" />
+        <HelpTOCNode Title="Select Method " Url="html/ace4997d-421c-0150-0fa8-67d5ba327e5f.htm" />
+        <HelpTOCNode Title="SelectByIndex Method " Url="html/9eb416ea-dddc-b297-9222-30eebae7c27f.htm" />
+        <HelpTOCNode Title="SelectByText Method " Url="html/433cba15-0d08-7830-1f9b-7911343e1643.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="6cafdba0-f62e-45ed-a7c8-2e0269d8b263" Title="Ginger.Plugin.Platform.Web.Elements" Url="html/aa10be7d-9767-47e1-69b0-491510631d96.htm">
+    <HelpTOCNode Title="eElementType Enumeration" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+    <HelpTOCNode Id="dfeb7c7d-e086-4dba-9b42-8b68b491ffad" Title="IButton Interface" Url="html/a5202b4b-1e39-4e4d-7d2b-26785f3933e2.htm">
+      <HelpTOCNode Title="IButton Properties" Url="html/75625198-6df1-c282-6439-743a5aa8f1a3.htm" />
+      <HelpTOCNode Id="32754bcc-c909-4d02-9449-e84292725835" Title="IButton Methods" Url="html/7f227a84-9215-800a-57b1-f14cbc214c6b.htm">
+        <HelpTOCNode Title="Submit Method " Url="html/bf9fcf6e-15e7-7ea3-029d-b0c16f5c7e70.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="03e4bc57-4c1c-4982-aeb7-f485befbaef6" Title="ICanvas Interface" Url="html/97518988-438a-802a-436e-781e4bd2361f.htm">
+      <HelpTOCNode Title="ICanvas Properties" Url="html/549ad743-f143-8352-6ca0-650bb702a851.htm" />
+      <HelpTOCNode Id="5c3e6019-be0b-4b07-90c8-7bf3855a4cf4" Title="ICanvas Methods" Url="html/72bcb09e-e37e-dfaa-1dc9-606bcb2ca77d.htm">
+        <HelpTOCNode Title="ClickXY Method " Url="html/0e328000-d506-a2f5-ece2-76863c05bf43.htm" />
+        <HelpTOCNode Title="DrawObject Method " Url="html/1d375a53-3503-5332-58f6-610a14f9c4e3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="599f8b80-1138-4fc5-8327-aff1faa8b055" Title="ICheckBox Interface" Url="html/4103cbc3-51ad-a27b-0ba1-cacec154bee8.htm">
+      <HelpTOCNode Title="ICheckBox Properties" Url="html/55c0c24f-54e5-362e-f389-956a3f478cb6.htm" />
+      <HelpTOCNode Title="ICheckBox Methods" Url="html/703841c5-bcbc-480b-364e-8f76b4b44080.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="db623588-e4f3-41a5-bb6a-547df80deaba" Title="IComboBox Interface" Url="html/8eb8d9c8-19f2-acc4-ffc2-ffc9809d693b.htm">
+      <HelpTOCNode Title="IComboBox Properties" Url="html/7575741d-cb83-03c1-806a-af4bf10ca12d.htm" />
+      <HelpTOCNode Id="e7147d94-f3b7-4403-a39c-949cdf8642ec" Title="IComboBox Methods" Url="html/eb32ba66-de5f-c9e4-9b4c-99ee5cb1069e.htm">
+        <HelpTOCNode Title="SetValue Method " Url="html/218d3ea7-378d-c1a4-093f-09d6dec607e9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c86b8fe8-4852-4287-8b12-1d2d8acef063" Title="IDiv Interface" Url="html/de587b28-8914-57a2-954d-0dad60928769.htm">
+      <HelpTOCNode Title="IDiv Properties" Url="html/faafbc53-69ce-05e6-961f-5c7b8b113142.htm" />
+      <HelpTOCNode Title="IDiv Methods" Url="html/c6c91adf-cb59-6953-a638-fce0ef05b857.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="547d5488-d6b3-426d-9d62-233abe41850f" Title="IGingerWebElement Interface" Url="html/7c39ebf0-ffd4-36db-0b51-c7026815b886.htm">
+      <HelpTOCNode Id="53bb79be-44ca-4350-8e46-baaa54ac4fb1" Title="IGingerWebElement Properties" Url="html/eb66b7cd-03c7-2084-7f91-fe7e77696620.htm">
+        <HelpTOCNode Title="Element Property " Url="html/5825a381-8224-b7dd-c7b5-56307992997d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9c5c307f-86c7-475b-8664-39cca50b491e" Title="IGingerWebElement Methods" Url="html/44c73da2-7eab-0267-b74e-a73581427e5a.htm">
+        <HelpTOCNode Title="DragAndDrop Method " Url="html/474d1cf8-f4ea-fafb-a42f-1d884bbf15bc.htm" />
+        <HelpTOCNode Title="GetAttribute Method " Url="html/eb882a24-d28f-3f1e-036e-216a58a032ad.htm" />
+        <HelpTOCNode Title="GetHeight Method " Url="html/a8e3a52e-181a-77ed-4640-35d8ae721df6.htm" />
+        <HelpTOCNode Title="GetSize Method " Url="html/2171e182-62c8-4204-25ad-986fd0d5d61a.htm" />
+        <HelpTOCNode Title="GetStyle Method " Url="html/fcfa1b33-3cec-8360-aa13-9ba5a5388739.htm" />
+        <HelpTOCNode Title="GetWidth Method " Url="html/c517ffad-b27e-522e-cca8-06a3b4e4fcbd.htm" />
+        <HelpTOCNode Title="Hover Method " Url="html/639c0992-5eac-2af4-bbd8-fe33307044e0.htm" />
+        <HelpTOCNode Title="IsEnabled Method " Url="html/3deb7b30-e969-6f3f-5660-afbc6d9d48e6.htm" />
+        <HelpTOCNode Title="IsVisible Method " Url="html/04073387-6c8f-f11b-e786-bc6044a23905.htm" />
+        <HelpTOCNode Title="RightClick Method " Url="html/cb319582-94d5-e5f8-00d2-0812ec16667e.htm" />
+        <HelpTOCNode Title="RunJavascript Method " Url="html/a64ec2c5-9b1a-9be8-76a3-f2b1a22d7022.htm" />
+        <HelpTOCNode Title="ScrollToElement Method " Url="html/8a386246-9b85-d32f-f753-7fb0302f76d2.htm" />
+        <HelpTOCNode Title="SetFocus Method " Url="html/09e5b806-3cd9-5cc9-fb49-eb33806fca17.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3b56dba5-6f3b-4261-8056-e650fca70c09" Title="IHyperLink Interface" Url="html/2a498824-bcb4-d8e2-53ca-f2b1d10edf5a.htm">
+      <HelpTOCNode Title="IHyperLink Properties" Url="html/36d61c48-cab9-eee1-80c2-05e1463136c4.htm" />
+      <HelpTOCNode Id="d6296e35-e50c-42fe-be9e-26dcbac32d48" Title="IHyperLink Methods" Url="html/26af8445-5f93-e81b-e705-0802e9419156.htm">
+        <HelpTOCNode Title="GetValue Method " Url="html/57da13db-bbe0-0d72-b47a-46a0a7ba4f6b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e339a4db-15d5-4656-8c2b-b26e298e38bc" Title="IImage Interface" Url="html/de90fe42-605c-8e6b-c22d-29947468ee4d.htm">
+      <HelpTOCNode Title="IImage Properties" Url="html/a1d9eaba-f358-2e22-eba4-c3b4f406da4c.htm" />
+      <HelpTOCNode Title="IImage Methods" Url="html/b9a13e74-1b8d-b8c8-7057-99b18e45ef2f.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="68c03269-e848-4846-ae67-63ea029d2dae" Title="ILabel Interface" Url="html/1773942e-c77c-901a-0ef5-3f86be92ab2e.htm">
+      <HelpTOCNode Title="ILabel Properties" Url="html/f64cf9e8-521f-4c5d-b42f-f3c77f40f9d3.htm" />
+      <HelpTOCNode Id="7925ab3a-bd2d-4758-b986-16dee9833562" Title="ILabel Methods" Url="html/110f330f-e647-5229-40c1-028e3f4dc284.htm">
+        <HelpTOCNode Title="GetFont Method " Url="html/cb40c992-2f0b-9d7f-6b89-212303fab362.htm" />
+        <HelpTOCNode Title="GetText Method " Url="html/169b21c3-fd01-1afe-1b3a-a33a7c7cf4a3.htm" />
+        <HelpTOCNode Title="Getvalue Method " Url="html/9f087869-edf4-d618-ce6f-e350ce3d869c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="52b08dba-2544-469a-9bed-5dd88aae43fb" Title="ILocateWebElement Interface" Url="html/201c9f13-cad6-a267-0f6d-1fd1a7019070.htm">
+      <HelpTOCNode Id="712569cc-d332-4ef5-9423-2e401df7659b" Title="ILocateWebElement Methods" Url="html/0a9e71b4-5bda-51e1-fddb-95e0fe980465.htm">
+        <HelpTOCNode Title="LocateElementByCss Method " Url="html/24984459-21d9-d57e-408a-0d363019964d.htm" />
+        <HelpTOCNode Title="LocateElementByID Method " Url="html/9632ddae-de91-7ab9-64c5-8800a3a9ec03.htm" />
+        <HelpTOCNode Title="LocateElementByLinkTest Method " Url="html/2d3b2a58-95bc-62db-e035-b5a7dfeb7cfb.htm" />
+        <HelpTOCNode Title="LocateElementByName Method " Url="html/ac2311e0-485b-a622-d81b-e6bf3128fc13.htm" />
+        <HelpTOCNode Title="LocateElementByPartiallinkText Method " Url="html/a9d0b179-23da-ac89-e83c-9ec90c54c2b7.htm" />
+        <HelpTOCNode Title="LocateElementByTag Method " Url="html/acd9b3ab-892e-9945-1f4d-c935d2c59fea.htm" />
+        <HelpTOCNode Title="LocateElementByXPath Method " Url="html/3fce418a-753a-5a10-16e7-040770117206.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="88b5840d-98ee-4072-9990-932f3deddc67" Title="IRadioButton Interface" Url="html/03d4d099-e3d1-f19c-5495-7e05156769bc.htm">
+      <HelpTOCNode Title="IRadioButton Properties" Url="html/43509205-4554-f201-9eb8-bc5b245d84cf.htm" />
+      <HelpTOCNode Id="22d61458-ebb0-4c4d-9ba4-b18c4ef981da" Title="IRadioButton Methods" Url="html/709530f9-4993-7e85-084b-4c6895712297.htm">
+        <HelpTOCNode Title="GetValue Method " Url="html/cd7bc295-e4ad-ba79-8d71-e3f94dc39cab.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="be7bef81-20da-424d-9db9-838875cd86f9" Title="IScrol Interface" Url="html/aaf569d4-8968-48a0-0fb6-2eacf871c97b.htm">
+      <HelpTOCNode Title="IScrol Properties" Url="html/ec4832a1-711f-cce4-f579-6e1db1fa8530.htm" />
+      <HelpTOCNode Title="IScrol Methods" Url="html/2a2fa991-64f1-f877-ba66-9d8a73e57e9e.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="fc355efe-94a2-48c6-8dc1-3812a5dfe5d2" Title="ISpan Interface" Url="html/60b92e92-a4ba-a504-fc12-eea26c804ac8.htm">
+      <HelpTOCNode Title="ISpan Properties" Url="html/fba60203-8833-ac75-75e8-a3851c6c7bb5.htm" />
+      <HelpTOCNode Id="80f6a4e8-5f87-4086-9ad1-8ff6ad62cf2a" Title="ISpan Methods" Url="html/41b90a84-2717-f8e8-a860-6d7a8de9f302.htm">
+        <HelpTOCNode Title="SetValue Method " Url="html/859f7d8a-ac45-7533-cac0-6741a91604f8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="83e2f82b-9403-46b0-a362-b3b445ccd17f" Title="ITable Interface" Url="html/ddef600f-6f8f-950f-6f75-5ab876a8ec4d.htm">
+      <HelpTOCNode Title="ITable Properties" Url="html/aab832b1-4f16-3ae4-be8c-1cbc24aa6554.htm" />
+      <HelpTOCNode Id="c8aa40d6-4153-48a6-bb26-92188cdf4b39" Title="ITable Methods" Url="html/2c751316-18d0-64a6-0010-9337786a3dec.htm">
+        <HelpTOCNode Title="Click Method " Url="html/2bd2c72f-c0c9-c85f-28a9-2d16d7594c09.htm" />
+        <HelpTOCNode Title="SetValue Method " Url="html/d250d58f-f459-af4c-8db9-2be5d79ff2af.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cbd384c3-c5f5-4f91-9eb4-7ec01f921de7" Title="ITextBox Interface" Url="html/71412c3d-82c5-0f70-dc90-0f9e380ec981.htm">
+      <HelpTOCNode Title="ITextBox Properties" Url="html/e5cec3f3-b44f-b5f1-1953-23cd3bcf895d.htm" />
+      <HelpTOCNode Id="75a65d24-ceae-46c8-bf45-9428697da402" Title="ITextBox Methods" Url="html/d00d5bca-7815-2c60-5ff6-0681b67f052d.htm">
+        <HelpTOCNode Title="ClearValue Method " Url="html/842d428a-377d-91f6-7437-0d4726705aff.htm" />
+        <HelpTOCNode Title="GetFont Method " Url="html/5f699177-399e-8e28-6fa8-fc8d8be27c03.htm" />
+        <HelpTOCNode Title="GetText Method " Url="html/f707b888-695e-a87e-3564-b15ab1c47eeb.htm" />
+        <HelpTOCNode Title="GetTextLength Method " Url="html/7cb13da7-266f-98a9-6868-e67a280da94c.htm" />
+        <HelpTOCNode Title="IsValuePopulated Method " Url="html/95bc2150-60f6-65aa-65fd-b2dc2394f0da.htm" />
+        <HelpTOCNode Title="SendKeys Method " Url="html/5ce5465e-6852-d32a-caec-00260d687672.htm" />
+        <HelpTOCNode Title="SetText Method " Url="html/fe513f30-1973-1ca5-31e8-34dcdda571ee.htm" />
+        <HelpTOCNode Title="SetValue Method " Url="html/89cd13ad-d3b1-b521-7354-b712c4af3ede.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="70f75dfb-b82a-4593-9de2-c250594719fc" Title="IWebList Interface" Url="html/261c01a3-7485-0b05-cb22-f65e99be2048.htm">
+      <HelpTOCNode Title="IWebList Properties" Url="html/2450bf8e-276a-1e59-2f67-fae01124d858.htm" />
+      <HelpTOCNode Title="IWebList Methods" Url="html/25889a37-9b89-437e-deaa-bf7bc794e7d9.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="3fa0e635-440a-4ddc-aab1-2eed6dbe1635" Title="Ginger.Plugin.Platform.Web.Execution" Url="html/6f1a881a-86ce-2d71-e2d7-b5c94f26c4e8.htm">
+    <HelpTOCNode Id="2a3d22bb-6e41-4f64-a109-2f16a8772e15" Title="UIELementActionHandler Class" Url="html/415c3a83-f24b-d0ac-6fb5-d241b0ee526e.htm">
+      <HelpTOCNode Title="UIELementActionHandler Constructor " Url="html/9838e51c-7ff3-1d16-89f8-606f108ba16a.htm" />
+      <HelpTOCNode Id="0e58ab7a-ded5-4d15-b2e0-c9691dafefe3" Title="UIELementActionHandler Properties" Url="html/2cad7d3a-d41b-1288-1e1e-3a83c2b7284d.htm">
+        <HelpTOCNode Title="Error Property " Url="html/ed1f9a79-280a-b546-dddf-2765c8f99a1d.htm" />
+        <HelpTOCNode Title="ExecutionInfo Property " Url="html/9987412b-f2ac-c6c4-e4d7-23f2cfffa1ac.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="UIELementActionHandler Methods" Url="html/c34c772a-4c82-3b65-d732-b2e20616c5f7.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="595e0db5-bd6b-42de-bead-a22c7d2eb910" Title="WebPlatformActionHandler Class" Url="html/cb117f63-3db9-c850-98dd-e49e433c40f0.htm">
+      <HelpTOCNode Title="WebPlatformActionHandler Constructor " Url="html/aa86fc99-01e9-426a-350f-32109a6a2945.htm" />
+      <HelpTOCNode Id="e00ef67b-cfb3-4fb5-bde8-7f4a1682f919" Title="WebPlatformActionHandler Methods" Url="html/639ad228-4637-1037-4a35-7e2d3ea23bc0.htm">
+        <HelpTOCNode Title="HandleRunAction Method " Url="html/e92c56db-07b9-f9a1-d09e-462d653b5d76.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

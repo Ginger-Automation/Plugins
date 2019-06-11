@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AcceptAlert method" Url="html/1c6cc1a4-3b59-8a38-478f-c3e048abc8d1.htm" />
+  <HelpKINode Title="AddCookie method" Url="html/91a61040-6f5f-6a13-014f-30b4aa570a11.htm" />
+  <HelpKINode Title="Alerts property" Url="html/5df92330-d2fc-e7b3-e8a9-15dd1d7a4dd5.htm" />
+  <HelpKINode Title="AutomaticallyShiftIframe property" Url="html/13d7d918-769b-341c-00df-e4b993c3ff90.htm" />
+  <HelpKINode Title="BrowserActions property" Url="html/895a5612-1d44-ef45-98f3-ac39189c790a.htm" />
+  <HelpKINode Title="Button enumeration member" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="Canvas enumeration member" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="CheckBox enumeration member" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="ClearValue method">
+    <HelpKINode Title="ISelect.ClearValue Method " Url="html/1f109ad7-3606-b400-1d97-c608c681d259.htm" />
+    <HelpKINode Title="ITextBox.ClearValue Method " Url="html/842d428a-377d-91f6-7437-0d4726705aff.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Click method">
+    <HelpKINode Title="IClick.Click Method " Url="html/0246e21f-458d-7b64-8881-05c76ba59109.htm" />
+    <HelpKINode Title="ITable.Click Method " Url="html/2bd2c72f-c0c9-c85f-28a9-2d16d7594c09.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ClickXY method" Url="html/0e328000-d506-a2f5-ece2-76863c05bf43.htm" />
+  <HelpKINode Title="CloseCurrentTab method" Url="html/7e940df5-d904-6c55-dfcf-52bd7a30214e.htm" />
+  <HelpKINode Title="CloseWindow method" Url="html/e0dcc5bc-f0df-6886-bbf4-8f6f4ac4c302.htm" />
+  <HelpKINode Title="ComboBox enumeration member" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="DeleteAllCookies method">
+    <HelpKINode Title="IBrowserActions.DeleteAllCookies Method " Url="html/d641a6cd-1edc-82d0-9a64-d32af6f497ab.htm" />
+    <HelpKINode Title="ICookiesHandling.DeleteAllCookies Method " Url="html/d6d91b21-525a-a86f-88a2-48f829256e0f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeleteCookie method" Url="html/2b44aee4-b1ec-37f8-9ac7-1db3257a0057.htm" />
+  <HelpKINode Title="DismissAlert method" Url="html/12350866-06a7-a4a0-7bd1-edcbd7cc662e.htm" />
+  <HelpKINode Title="Div enumeration member" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="DoubleClick method" Url="html/74d13593-f256-a719-c373-b052cfeba847.htm" />
+  <HelpKINode Title="DragAndDrop method" Url="html/474d1cf8-f4ea-fafb-a42f-1d884bbf15bc.htm" />
+  <HelpKINode Title="DrawObject method" Url="html/1d375a53-3503-5332-58f6-610a14f9c4e3.htm" />
+  <HelpKINode Title="eElementType enumeration" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="Element property" Url="html/5825a381-8224-b7dd-c7b5-56307992997d.htm" />
+  <HelpKINode Title="Error property" Url="html/ed1f9a79-280a-b546-dddf-2765c8f99a1d.htm" />
+  <HelpKINode Title="ExecuteScript method" Url="html/733137b6-210c-95a4-c9ad-b6d0dffcf68d.htm" />
+  <HelpKINode Title="ExecutionInfo property" Url="html/9987412b-f2ac-c6c4-e4d7-23f2cfffa1ac.htm" />
+  <HelpKINode Title="FullScreen method" Url="html/205b4b20-b7d5-93a3-2628-b64d5776d32e.htm" />
+  <HelpKINode Title="GetAlertText method" Url="html/731bc45e-2f67-ac8a-e69e-0f6e249e799b.htm" />
+  <HelpKINode Title="GetAllCookies method" Url="html/cc751445-1a39-d86c-533c-364415ccae99.htm" />
+  <HelpKINode Title="GetAttribute method" Url="html/eb882a24-d28f-3f1e-036e-216a58a032ad.htm" />
+  <HelpKINode Title="GetCurrentUrl method" Url="html/63238803-a6e8-b17f-76b8-87a464b2c8a0.htm" />
+  <HelpKINode Title="GetFont method">
+    <HelpKINode Title="ILabel.GetFont Method " Url="html/cb40c992-2f0b-9d7f-6b89-212303fab362.htm" />
+    <HelpKINode Title="ITextBox.GetFont Method " Url="html/5f699177-399e-8e28-6fa8-fc8d8be27c03.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetHeight method" Url="html/a8e3a52e-181a-77ed-4640-35d8ae721df6.htm" />
+  <HelpKINode Title="GetnamedCookie method" Url="html/a2b255f2-0b1c-faab-0d61-4804ef026a92.htm" />
+  <HelpKINode Title="GetSelectedValue method" Url="html/269b8fb5-06b2-306e-9021-f154e5821093.htm" />
+  <HelpKINode Title="GetSize method" Url="html/2171e182-62c8-4204-25ad-986fd0d5d61a.htm" />
+  <HelpKINode Title="GetStyle method" Url="html/fcfa1b33-3cec-8360-aa13-9ba5a5388739.htm" />
+  <HelpKINode Title="GetText method">
+    <HelpKINode Title="ILabel.GetText Method " Url="html/169b21c3-fd01-1afe-1b3a-a33a7c7cf4a3.htm" />
+    <HelpKINode Title="ITextBox.GetText Method " Url="html/f707b888-695e-a87e-3564-b15ab1c47eeb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetTextLength method" Url="html/7cb13da7-266f-98a9-6868-e67a280da94c.htm" />
+  <HelpKINode Title="GetTitle method" Url="html/1c5aaabd-0adf-705f-8f29-3441d086fbcb.htm" />
+  <HelpKINode Title="GetValidValue method" Url="html/985edde5-39a8-8f1d-9c79-df9ef5b5a67b.htm" />
+  <HelpKINode Title="GetValue method">
+    <HelpKINode Title="IGetValue.GetValue Method " Url="html/7ce0d281-2235-be8a-6ab0-06ec71e5cfa8.htm" />
+    <HelpKINode Title="IHyperLink.GetValue Method " Url="html/57da13db-bbe0-0d72-b47a-46a0a7ba4f6b.htm" />
+    <HelpKINode Title="IRadioButton.GetValue Method " Url="html/cd7bc295-e4ad-ba79-8d71-e3f94dc39cab.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Getvalue method" Url="html/9f087869-edf4-d618-ce6f-e350ce3d869c.htm" />
+  <HelpKINode Title="GetWidth method" Url="html/c517ffad-b27e-522e-cca8-06a3b4e4fcbd.htm" />
+  <HelpKINode Title="GetWindowHandle method" Url="html/532a9032-2278-e753-6425-f75a8468950b.htm" />
+  <HelpKINode Title="GetWindowHandles method" Url="html/4fc70a9a-8ec1-bd2b-afc7-a37ffd08b3f9.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web namespace" Url="html/0f182ec3-9475-1b3b-c98d-71d2917292c4.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Actions namespace" Url="html/a81ff830-f631-b344-f833-354c1c062f8b.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Actions.IClick interface" Url="html/73c748ba-05c0-4c9f-5934-22d5d492f483.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Actions.IGetValue interface" Url="html/c3f65c05-8c9a-2571-db49-cfcedefb6334.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Actions.ISelect interface" Url="html/1e13b713-1654-b8e7-0905-103573602dae.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements namespace" Url="html/aa10be7d-9767-47e1-69b0-491510631d96.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.eElementType enumeration" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.IButton interface" Url="html/a5202b4b-1e39-4e4d-7d2b-26785f3933e2.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.ICanvas interface" Url="html/97518988-438a-802a-436e-781e4bd2361f.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.ICheckBox interface" Url="html/4103cbc3-51ad-a27b-0ba1-cacec154bee8.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.IComboBox interface" Url="html/8eb8d9c8-19f2-acc4-ffc2-ffc9809d693b.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.IDiv interface" Url="html/de587b28-8914-57a2-954d-0dad60928769.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.IGingerWebElement interface" Url="html/7c39ebf0-ffd4-36db-0b51-c7026815b886.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.IHyperLink interface" Url="html/2a498824-bcb4-d8e2-53ca-f2b1d10edf5a.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.IImage interface" Url="html/de90fe42-605c-8e6b-c22d-29947468ee4d.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.ILabel interface" Url="html/1773942e-c77c-901a-0ef5-3f86be92ab2e.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.ILocateWebElement interface" Url="html/201c9f13-cad6-a267-0f6d-1fd1a7019070.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.IRadioButton interface" Url="html/03d4d099-e3d1-f19c-5495-7e05156769bc.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.IScrol interface" Url="html/aaf569d4-8968-48a0-0fb6-2eacf871c97b.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.ISpan interface" Url="html/60b92e92-a4ba-a504-fc12-eea26c804ac8.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.ITable interface" Url="html/ddef600f-6f8f-950f-6f75-5ab876a8ec4d.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.ITextBox interface" Url="html/71412c3d-82c5-0f70-dc90-0f9e380ec981.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Elements.IWebList interface" Url="html/261c01a3-7485-0b05-cb22-f65e99be2048.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Execution namespace" Url="html/6f1a881a-86ce-2d71-e2d7-b5c94f26c4e8.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Execution.UIELementActionHandler class" Url="html/415c3a83-f24b-d0ac-6fb5-d241b0ee526e.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.Execution.WebPlatformActionHandler class" Url="html/cb117f63-3db9-c850-98dd-e49e433c40f0.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.IAlerts interface" Url="html/8bda61be-0d4d-da94-203a-2b79ffc47c52.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.IBrowserActions interface" Url="html/c888bbda-9774-bdf5-ef5b-218097d1b9ec.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.ICookiesHandling interface" Url="html/2c0414ae-7d98-afab-8b58-baae0465fe1a.htm" />
+  <HelpKINode Title="Ginger.Plugin.Platform.Web.IWebPlatform interface" Url="html/d39e4421-ec8a-ce59-5fe7-8282caa2b818.htm" />
+  <HelpKINode Title="HandleRunAction method" Url="html/e92c56db-07b9-f9a1-d09e-462d653b5d76.htm" />
+  <HelpKINode Title="Hover method" Url="html/639c0992-5eac-2af4-bbd8-fe33307044e0.htm" />
+  <HelpKINode Title="HyperLink enumeration member" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="IAlerts interface">
+    <HelpKINode Title="IAlerts Interface" Url="html/8bda61be-0d4d-da94-203a-2b79ffc47c52.htm" />
+    <HelpKINode Title="methods" Url="html/6a6e3ff5-309b-1807-0297-3852c71ab006.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAlerts.AcceptAlert method" Url="html/1c6cc1a4-3b59-8a38-478f-c3e048abc8d1.htm" />
+  <HelpKINode Title="IAlerts.DismissAlert method" Url="html/12350866-06a7-a4a0-7bd1-edcbd7cc662e.htm" />
+  <HelpKINode Title="IAlerts.GetAlertText method" Url="html/731bc45e-2f67-ac8a-e69e-0f6e249e799b.htm" />
+  <HelpKINode Title="IAlerts.SendAlertText method" Url="html/7cbdb8ea-6b96-bdc7-b0f8-aa624386fc35.htm" />
+  <HelpKINode Title="IBrowserActions interface">
+    <HelpKINode Title="IBrowserActions Interface" Url="html/c888bbda-9774-bdf5-ef5b-218097d1b9ec.htm" />
+    <HelpKINode Title="methods" Url="html/dacfae71-1e74-df5f-442f-d1bfd85b8893.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBrowserActions.CloseCurrentTab method" Url="html/7e940df5-d904-6c55-dfcf-52bd7a30214e.htm" />
+  <HelpKINode Title="IBrowserActions.CloseWindow method" Url="html/e0dcc5bc-f0df-6886-bbf4-8f6f4ac4c302.htm" />
+  <HelpKINode Title="IBrowserActions.DeleteAllCookies method" Url="html/d641a6cd-1edc-82d0-9a64-d32af6f497ab.htm" />
+  <HelpKINode Title="IBrowserActions.ExecuteScript method" Url="html/733137b6-210c-95a4-c9ad-b6d0dffcf68d.htm" />
+  <HelpKINode Title="IBrowserActions.FullScreen method" Url="html/205b4b20-b7d5-93a3-2628-b64d5776d32e.htm" />
+  <HelpKINode Title="IBrowserActions.GetCurrentUrl method" Url="html/63238803-a6e8-b17f-76b8-87a464b2c8a0.htm" />
+  <HelpKINode Title="IBrowserActions.GetTitle method" Url="html/1c5aaabd-0adf-705f-8f29-3441d086fbcb.htm" />
+  <HelpKINode Title="IBrowserActions.GetWindowHandle method" Url="html/532a9032-2278-e753-6425-f75a8468950b.htm" />
+  <HelpKINode Title="IBrowserActions.GetWindowHandles method" Url="html/4fc70a9a-8ec1-bd2b-afc7-a37ffd08b3f9.htm" />
+  <HelpKINode Title="IBrowserActions.Maximize method" Url="html/e4d36019-075c-711a-3aeb-0c71e2daaba1.htm" />
+  <HelpKINode Title="IBrowserActions.Minimize method" Url="html/a72f274e-8724-a966-374e-fdf7d91c4696.htm" />
+  <HelpKINode Title="IBrowserActions.Navigate method" Url="html/26203945-96df-a227-eece-551b40377e77.htm" />
+  <HelpKINode Title="IBrowserActions.NavigateBack method" Url="html/c4fc4311-7160-5beb-06e4-8d5481900373.htm" />
+  <HelpKINode Title="IBrowserActions.NavigateForward method" Url="html/f17197ad-5688-33cd-0671-c78a8319e1e7.htm" />
+  <HelpKINode Title="IBrowserActions.Refresh method" Url="html/53eaa538-af16-04ae-e1f4-56dc0f47165c.htm" />
+  <HelpKINode Title="IBrowserActions.SwitchToFrame method" Url="html/80728ea5-a422-73dd-a174-77543bbecc76.htm" />
+  <HelpKINode Title="IBrowserActions.SwitchToParentFrame method" Url="html/09c730b4-6f63-e3a4-13f9-41e0cc27a521.htm" />
+  <HelpKINode Title="IButton interface">
+    <HelpKINode Title="IButton Interface" Url="html/a5202b4b-1e39-4e4d-7d2b-26785f3933e2.htm" />
+    <HelpKINode Title="methods" Url="html/7f227a84-9215-800a-57b1-f14cbc214c6b.htm" />
+    <HelpKINode Title="properties" Url="html/75625198-6df1-c282-6439-743a5aa8f1a3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IButton.Submit method" Url="html/bf9fcf6e-15e7-7ea3-029d-b0c16f5c7e70.htm" />
+  <HelpKINode Title="ICanvas interface">
+    <HelpKINode Title="ICanvas Interface" Url="html/97518988-438a-802a-436e-781e4bd2361f.htm" />
+    <HelpKINode Title="methods" Url="html/72bcb09e-e37e-dfaa-1dc9-606bcb2ca77d.htm" />
+    <HelpKINode Title="properties" Url="html/549ad743-f143-8352-6ca0-650bb702a851.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICanvas.ClickXY method" Url="html/0e328000-d506-a2f5-ece2-76863c05bf43.htm" />
+  <HelpKINode Title="ICanvas.DrawObject method" Url="html/1d375a53-3503-5332-58f6-610a14f9c4e3.htm" />
+  <HelpKINode Title="ICheckBox interface">
+    <HelpKINode Title="ICheckBox Interface" Url="html/4103cbc3-51ad-a27b-0ba1-cacec154bee8.htm" />
+    <HelpKINode Title="methods" Url="html/703841c5-bcbc-480b-364e-8f76b4b44080.htm" />
+    <HelpKINode Title="properties" Url="html/55c0c24f-54e5-362e-f389-956a3f478cb6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IClick interface">
+    <HelpKINode Title="IClick Interface" Url="html/73c748ba-05c0-4c9f-5934-22d5d492f483.htm" />
+    <HelpKINode Title="methods" Url="html/57d04ab5-aa00-ca80-7cab-faec45183303.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IClick.Click method" Url="html/0246e21f-458d-7b64-8881-05c76ba59109.htm" />
+  <HelpKINode Title="IClick.DoubleClick method" Url="html/74d13593-f256-a719-c373-b052cfeba847.htm" />
+  <HelpKINode Title="IClick.JavascriptClick method" Url="html/aefd0815-765f-7bc6-ccd8-3a1202c67f01.htm" />
+  <HelpKINode Title="IClick.MouseClick method" Url="html/df1451a9-989b-d201-ff29-a6bac7cb2e7a.htm" />
+  <HelpKINode Title="IClick.MultiClick method" Url="html/b0b95a7f-5f19-2f61-2939-7a002a4e3685.htm" />
+  <HelpKINode Title="IComboBox interface">
+    <HelpKINode Title="IComboBox Interface" Url="html/8eb8d9c8-19f2-acc4-ffc2-ffc9809d693b.htm" />
+    <HelpKINode Title="methods" Url="html/eb32ba66-de5f-c9e4-9b4c-99ee5cb1069e.htm" />
+    <HelpKINode Title="properties" Url="html/7575741d-cb83-03c1-806a-af4bf10ca12d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IComboBox.SetValue method" Url="html/218d3ea7-378d-c1a4-093f-09d6dec607e9.htm" />
+  <HelpKINode Title="ICookiesHandling interface">
+    <HelpKINode Title="ICookiesHandling Interface" Url="html/2c0414ae-7d98-afab-8b58-baae0465fe1a.htm" />
+    <HelpKINode Title="methods" Url="html/1c59d83b-404d-4aa7-3552-741a9a75b68d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICookiesHandling.AddCookie method" Url="html/91a61040-6f5f-6a13-014f-30b4aa570a11.htm" />
+  <HelpKINode Title="ICookiesHandling.DeleteAllCookies method" Url="html/d6d91b21-525a-a86f-88a2-48f829256e0f.htm" />
+  <HelpKINode Title="ICookiesHandling.DeleteCookie method" Url="html/2b44aee4-b1ec-37f8-9ac7-1db3257a0057.htm" />
+  <HelpKINode Title="ICookiesHandling.GetAllCookies method" Url="html/cc751445-1a39-d86c-533c-364415ccae99.htm" />
+  <HelpKINode Title="ICookiesHandling.GetnamedCookie method" Url="html/a2b255f2-0b1c-faab-0d61-4804ef026a92.htm" />
+  <HelpKINode Title="IDiv interface">
+    <HelpKINode Title="IDiv Interface" Url="html/de587b28-8914-57a2-954d-0dad60928769.htm" />
+    <HelpKINode Title="methods" Url="html/c6c91adf-cb59-6953-a638-fce0ef05b857.htm" />
+    <HelpKINode Title="properties" Url="html/faafbc53-69ce-05e6-961f-5c7b8b113142.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IGetValue interface">
+    <HelpKINode Title="IGetValue Interface" Url="html/c3f65c05-8c9a-2571-db49-cfcedefb6334.htm" />
+    <HelpKINode Title="methods" Url="html/da226f91-4fb1-d647-822d-4a4a22975f0a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IGetValue.GetValue method" Url="html/7ce0d281-2235-be8a-6ab0-06ec71e5cfa8.htm" />
+  <HelpKINode Title="IGingerWebElement interface">
+    <HelpKINode Title="IGingerWebElement Interface" Url="html/7c39ebf0-ffd4-36db-0b51-c7026815b886.htm" />
+    <HelpKINode Title="methods" Url="html/44c73da2-7eab-0267-b74e-a73581427e5a.htm" />
+    <HelpKINode Title="properties" Url="html/eb66b7cd-03c7-2084-7f91-fe7e77696620.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IGingerWebElement.DragAndDrop method" Url="html/474d1cf8-f4ea-fafb-a42f-1d884bbf15bc.htm" />
+  <HelpKINode Title="IGingerWebElement.Element property" Url="html/5825a381-8224-b7dd-c7b5-56307992997d.htm" />
+  <HelpKINode Title="IGingerWebElement.GetAttribute method" Url="html/eb882a24-d28f-3f1e-036e-216a58a032ad.htm" />
+  <HelpKINode Title="IGingerWebElement.GetHeight method" Url="html/a8e3a52e-181a-77ed-4640-35d8ae721df6.htm" />
+  <HelpKINode Title="IGingerWebElement.GetSize method" Url="html/2171e182-62c8-4204-25ad-986fd0d5d61a.htm" />
+  <HelpKINode Title="IGingerWebElement.GetStyle method" Url="html/fcfa1b33-3cec-8360-aa13-9ba5a5388739.htm" />
+  <HelpKINode Title="IGingerWebElement.GetWidth method" Url="html/c517ffad-b27e-522e-cca8-06a3b4e4fcbd.htm" />
+  <HelpKINode Title="IGingerWebElement.Hover method" Url="html/639c0992-5eac-2af4-bbd8-fe33307044e0.htm" />
+  <HelpKINode Title="IGingerWebElement.IsEnabled method" Url="html/3deb7b30-e969-6f3f-5660-afbc6d9d48e6.htm" />
+  <HelpKINode Title="IGingerWebElement.IsVisible method" Url="html/04073387-6c8f-f11b-e786-bc6044a23905.htm" />
+  <HelpKINode Title="IGingerWebElement.RightClick method" Url="html/cb319582-94d5-e5f8-00d2-0812ec16667e.htm" />
+  <HelpKINode Title="IGingerWebElement.RunJavascript method" Url="html/a64ec2c5-9b1a-9be8-76a3-f2b1a22d7022.htm" />
+  <HelpKINode Title="IGingerWebElement.ScrollToElement method" Url="html/8a386246-9b85-d32f-f753-7fb0302f76d2.htm" />
+  <HelpKINode Title="IGingerWebElement.SetFocus method" Url="html/09e5b806-3cd9-5cc9-fb49-eb33806fca17.htm" />
+  <HelpKINode Title="IHyperLink interface">
+    <HelpKINode Title="IHyperLink Interface" Url="html/2a498824-bcb4-d8e2-53ca-f2b1d10edf5a.htm" />
+    <HelpKINode Title="methods" Url="html/26af8445-5f93-e81b-e705-0802e9419156.htm" />
+    <HelpKINode Title="properties" Url="html/36d61c48-cab9-eee1-80c2-05e1463136c4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IHyperLink.GetValue method" Url="html/57da13db-bbe0-0d72-b47a-46a0a7ba4f6b.htm" />
+  <HelpKINode Title="IImage interface">
+    <HelpKINode Title="IImage Interface" Url="html/de90fe42-605c-8e6b-c22d-29947468ee4d.htm" />
+    <HelpKINode Title="methods" Url="html/b9a13e74-1b8d-b8c8-7057-99b18e45ef2f.htm" />
+    <HelpKINode Title="properties" Url="html/a1d9eaba-f358-2e22-eba4-c3b4f406da4c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILabel interface">
+    <HelpKINode Title="ILabel Interface" Url="html/1773942e-c77c-901a-0ef5-3f86be92ab2e.htm" />
+    <HelpKINode Title="methods" Url="html/110f330f-e647-5229-40c1-028e3f4dc284.htm" />
+    <HelpKINode Title="properties" Url="html/f64cf9e8-521f-4c5d-b42f-f3c77f40f9d3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILabel.GetFont method" Url="html/cb40c992-2f0b-9d7f-6b89-212303fab362.htm" />
+  <HelpKINode Title="ILabel.GetText method" Url="html/169b21c3-fd01-1afe-1b3a-a33a7c7cf4a3.htm" />
+  <HelpKINode Title="ILabel.Getvalue method" Url="html/9f087869-edf4-d618-ce6f-e350ce3d869c.htm" />
+  <HelpKINode Title="ILocateWebElement interface">
+    <HelpKINode Title="ILocateWebElement Interface" Url="html/201c9f13-cad6-a267-0f6d-1fd1a7019070.htm" />
+    <HelpKINode Title="methods" Url="html/0a9e71b4-5bda-51e1-fddb-95e0fe980465.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILocateWebElement.LocateElementByCss method" Url="html/24984459-21d9-d57e-408a-0d363019964d.htm" />
+  <HelpKINode Title="ILocateWebElement.LocateElementByID method" Url="html/9632ddae-de91-7ab9-64c5-8800a3a9ec03.htm" />
+  <HelpKINode Title="ILocateWebElement.LocateElementByLinkTest method" Url="html/2d3b2a58-95bc-62db-e035-b5a7dfeb7cfb.htm" />
+  <HelpKINode Title="ILocateWebElement.LocateElementByName method" Url="html/ac2311e0-485b-a622-d81b-e6bf3128fc13.htm" />
+  <HelpKINode Title="ILocateWebElement.LocateElementByPartiallinkText method" Url="html/a9d0b179-23da-ac89-e83c-9ec90c54c2b7.htm" />
+  <HelpKINode Title="ILocateWebElement.LocateElementByTag method" Url="html/acd9b3ab-892e-9945-1f4d-c935d2c59fea.htm" />
+  <HelpKINode Title="ILocateWebElement.LocateElementByXPath method" Url="html/3fce418a-753a-5a10-16e7-040770117206.htm" />
+  <HelpKINode Title="Image enumeration member" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="IRadioButton interface">
+    <HelpKINode Title="IRadioButton Interface" Url="html/03d4d099-e3d1-f19c-5495-7e05156769bc.htm" />
+    <HelpKINode Title="methods" Url="html/709530f9-4993-7e85-084b-4c6895712297.htm" />
+    <HelpKINode Title="properties" Url="html/43509205-4554-f201-9eb8-bc5b245d84cf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IRadioButton.GetValue method" Url="html/cd7bc295-e4ad-ba79-8d71-e3f94dc39cab.htm" />
+  <HelpKINode Title="IScrol interface">
+    <HelpKINode Title="IScrol Interface" Url="html/aaf569d4-8968-48a0-0fb6-2eacf871c97b.htm" />
+    <HelpKINode Title="methods" Url="html/2a2fa991-64f1-f877-ba66-9d8a73e57e9e.htm" />
+    <HelpKINode Title="properties" Url="html/ec4832a1-711f-cce4-f579-6e1db1fa8530.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISelect interface">
+    <HelpKINode Title="ISelect Interface" Url="html/1e13b713-1654-b8e7-0905-103573602dae.htm" />
+    <HelpKINode Title="methods" Url="html/fa29c47a-f454-ade5-43c7-33d063002a49.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISelect.ClearValue method" Url="html/1f109ad7-3606-b400-1d97-c608c681d259.htm" />
+  <HelpKINode Title="ISelect.GetSelectedValue method" Url="html/269b8fb5-06b2-306e-9021-f154e5821093.htm" />
+  <HelpKINode Title="ISelect.GetValidValue method" Url="html/985edde5-39a8-8f1d-9c79-df9ef5b5a67b.htm" />
+  <HelpKINode Title="ISelect.IsValuePopulated method" Url="html/188f376f-90a5-53ed-f9b2-e1bca021d3bf.htm" />
+  <HelpKINode Title="ISelect.Select method" Url="html/ace4997d-421c-0150-0fa8-67d5ba327e5f.htm" />
+  <HelpKINode Title="ISelect.SelectByIndex method" Url="html/9eb416ea-dddc-b297-9222-30eebae7c27f.htm" />
+  <HelpKINode Title="ISelect.SelectByText method" Url="html/433cba15-0d08-7830-1f9b-7911343e1643.htm" />
+  <HelpKINode Title="IsEnabled method" Url="html/3deb7b30-e969-6f3f-5660-afbc6d9d48e6.htm" />
+  <HelpKINode Title="ISpan interface">
+    <HelpKINode Title="ISpan Interface" Url="html/60b92e92-a4ba-a504-fc12-eea26c804ac8.htm" />
+    <HelpKINode Title="methods" Url="html/41b90a84-2717-f8e8-a860-6d7a8de9f302.htm" />
+    <HelpKINode Title="properties" Url="html/fba60203-8833-ac75-75e8-a3851c6c7bb5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISpan.SetValue method" Url="html/859f7d8a-ac45-7533-cac0-6741a91604f8.htm" />
+  <HelpKINode Title="IsValuePopulated method">
+    <HelpKINode Title="ISelect.IsValuePopulated Method " Url="html/188f376f-90a5-53ed-f9b2-e1bca021d3bf.htm" />
+    <HelpKINode Title="ITextBox.IsValuePopulated Method " Url="html/95bc2150-60f6-65aa-65fd-b2dc2394f0da.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsVisible method" Url="html/04073387-6c8f-f11b-e786-bc6044a23905.htm" />
+  <HelpKINode Title="ITable interface">
+    <HelpKINode Title="ITable Interface" Url="html/ddef600f-6f8f-950f-6f75-5ab876a8ec4d.htm" />
+    <HelpKINode Title="methods" Url="html/2c751316-18d0-64a6-0010-9337786a3dec.htm" />
+    <HelpKINode Title="properties" Url="html/aab832b1-4f16-3ae4-be8c-1cbc24aa6554.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ITable.Click method" Url="html/2bd2c72f-c0c9-c85f-28a9-2d16d7594c09.htm" />
+  <HelpKINode Title="ITable.SetValue method" Url="html/d250d58f-f459-af4c-8db9-2be5d79ff2af.htm" />
+  <HelpKINode Title="ITextBox interface">
+    <HelpKINode Title="ITextBox Interface" Url="html/71412c3d-82c5-0f70-dc90-0f9e380ec981.htm" />
+    <HelpKINode Title="methods" Url="html/d00d5bca-7815-2c60-5ff6-0681b67f052d.htm" />
+    <HelpKINode Title="properties" Url="html/e5cec3f3-b44f-b5f1-1953-23cd3bcf895d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ITextBox.ClearValue method" Url="html/842d428a-377d-91f6-7437-0d4726705aff.htm" />
+  <HelpKINode Title="ITextBox.GetFont method" Url="html/5f699177-399e-8e28-6fa8-fc8d8be27c03.htm" />
+  <HelpKINode Title="ITextBox.GetText method" Url="html/f707b888-695e-a87e-3564-b15ab1c47eeb.htm" />
+  <HelpKINode Title="ITextBox.GetTextLength method" Url="html/7cb13da7-266f-98a9-6868-e67a280da94c.htm" />
+  <HelpKINode Title="ITextBox.IsValuePopulated method" Url="html/95bc2150-60f6-65aa-65fd-b2dc2394f0da.htm" />
+  <HelpKINode Title="ITextBox.SendKeys method" Url="html/5ce5465e-6852-d32a-caec-00260d687672.htm" />
+  <HelpKINode Title="ITextBox.SetText method" Url="html/fe513f30-1973-1ca5-31e8-34dcdda571ee.htm" />
+  <HelpKINode Title="ITextBox.SetValue method" Url="html/89cd13ad-d3b1-b521-7354-b712c4af3ede.htm" />
+  <HelpKINode Title="IWebList interface">
+    <HelpKINode Title="IWebList Interface" Url="html/261c01a3-7485-0b05-cb22-f65e99be2048.htm" />
+    <HelpKINode Title="methods" Url="html/25889a37-9b89-437e-deaa-bf7bc794e7d9.htm" />
+    <HelpKINode Title="properties" Url="html/2450bf8e-276a-1e59-2f67-fae01124d858.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IWebPlatform interface">
+    <HelpKINode Title="IWebPlatform Interface" Url="html/d39e4421-ec8a-ce59-5fe7-8282caa2b818.htm" />
+    <HelpKINode Title="properties" Url="html/db9eb5d1-4463-7437-c1ba-09a05b4aa6e8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IWebPlatform.Alerts property" Url="html/5df92330-d2fc-e7b3-e8a9-15dd1d7a4dd5.htm" />
+  <HelpKINode Title="IWebPlatform.AutomaticallyShiftIframe property" Url="html/13d7d918-769b-341c-00df-e4b993c3ff90.htm" />
+  <HelpKINode Title="IWebPlatform.BrowserActions property" Url="html/895a5612-1d44-ef45-98f3-ac39189c790a.htm" />
+  <HelpKINode Title="IWebPlatform.LocateWebElement property" Url="html/98e1a400-3345-d3b3-e1b3-59b27ca662bd.htm" />
+  <HelpKINode Title="JavascriptClick method" Url="html/aefd0815-765f-7bc6-ccd8-3a1202c67f01.htm" />
+  <HelpKINode Title="Label enumeration member" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="List enumeration member" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="LocateElementByCss method" Url="html/24984459-21d9-d57e-408a-0d363019964d.htm" />
+  <HelpKINode Title="LocateElementByID method" Url="html/9632ddae-de91-7ab9-64c5-8800a3a9ec03.htm" />
+  <HelpKINode Title="LocateElementByLinkTest method" Url="html/2d3b2a58-95bc-62db-e035-b5a7dfeb7cfb.htm" />
+  <HelpKINode Title="LocateElementByName method" Url="html/ac2311e0-485b-a622-d81b-e6bf3128fc13.htm" />
+  <HelpKINode Title="LocateElementByPartiallinkText method" Url="html/a9d0b179-23da-ac89-e83c-9ec90c54c2b7.htm" />
+  <HelpKINode Title="LocateElementByTag method" Url="html/acd9b3ab-892e-9945-1f4d-c935d2c59fea.htm" />
+  <HelpKINode Title="LocateElementByXPath method" Url="html/3fce418a-753a-5a10-16e7-040770117206.htm" />
+  <HelpKINode Title="LocateWebElement property" Url="html/98e1a400-3345-d3b3-e1b3-59b27ca662bd.htm" />
+  <HelpKINode Title="Maximize method" Url="html/e4d36019-075c-711a-3aeb-0c71e2daaba1.htm" />
+  <HelpKINode Title="Minimize method" Url="html/a72f274e-8724-a966-374e-fdf7d91c4696.htm" />
+  <HelpKINode Title="MouseClick method" Url="html/df1451a9-989b-d201-ff29-a6bac7cb2e7a.htm" />
+  <HelpKINode Title="MultiClick method" Url="html/b0b95a7f-5f19-2f61-2939-7a002a4e3685.htm" />
+  <HelpKINode Title="Navigate method" Url="html/26203945-96df-a227-eece-551b40377e77.htm" />
+  <HelpKINode Title="NavigateBack method" Url="html/c4fc4311-7160-5beb-06e4-8d5481900373.htm" />
+  <HelpKINode Title="NavigateForward method" Url="html/f17197ad-5688-33cd-0671-c78a8319e1e7.htm" />
+  <HelpKINode Title="RadioButton enumeration member" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="Refresh method" Url="html/53eaa538-af16-04ae-e1f4-56dc0f47165c.htm" />
+  <HelpKINode Title="RightClick method" Url="html/cb319582-94d5-e5f8-00d2-0812ec16667e.htm" />
+  <HelpKINode Title="RunJavascript method" Url="html/a64ec2c5-9b1a-9be8-76a3-f2b1a22d7022.htm" />
+  <HelpKINode Title="ScrollToElement method" Url="html/8a386246-9b85-d32f-f753-7fb0302f76d2.htm" />
+  <HelpKINode Title="Select method" Url="html/ace4997d-421c-0150-0fa8-67d5ba327e5f.htm" />
+  <HelpKINode Title="SelectByIndex method" Url="html/9eb416ea-dddc-b297-9222-30eebae7c27f.htm" />
+  <HelpKINode Title="SelectByText method" Url="html/433cba15-0d08-7830-1f9b-7911343e1643.htm" />
+  <HelpKINode Title="SendAlertText method" Url="html/7cbdb8ea-6b96-bdc7-b0f8-aa624386fc35.htm" />
+  <HelpKINode Title="SendKeys method" Url="html/5ce5465e-6852-d32a-caec-00260d687672.htm" />
+  <HelpKINode Title="SetFocus method" Url="html/09e5b806-3cd9-5cc9-fb49-eb33806fca17.htm" />
+  <HelpKINode Title="SetText method" Url="html/fe513f30-1973-1ca5-31e8-34dcdda571ee.htm" />
+  <HelpKINode Title="SetValue method">
+    <HelpKINode Title="IComboBox.SetValue Method " Url="html/218d3ea7-378d-c1a4-093f-09d6dec607e9.htm" />
+    <HelpKINode Title="ISpan.SetValue Method " Url="html/859f7d8a-ac45-7533-cac0-6741a91604f8.htm" />
+    <HelpKINode Title="ITable.SetValue Method " Url="html/d250d58f-f459-af4c-8db9-2be5d79ff2af.htm" />
+    <HelpKINode Title="ITextBox.SetValue Method " Url="html/89cd13ad-d3b1-b521-7354-b712c4af3ede.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Span enumeration member" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="Submit method" Url="html/bf9fcf6e-15e7-7ea3-029d-b0c16f5c7e70.htm" />
+  <HelpKINode Title="SwitchToFrame method" Url="html/80728ea5-a422-73dd-a174-77543bbecc76.htm" />
+  <HelpKINode Title="SwitchToParentFrame method" Url="html/09c730b4-6f63-e3a4-13f9-41e0cc27a521.htm" />
+  <HelpKINode Title="Table enumeration member" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="TextBox enumeration member" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="UIELementActionHandler class">
+    <HelpKINode Title="UIELementActionHandler Class" Url="html/415c3a83-f24b-d0ac-6fb5-d241b0ee526e.htm" />
+    <HelpKINode Title="constructor" Url="html/9838e51c-7ff3-1d16-89f8-606f108ba16a.htm" />
+    <HelpKINode Title="methods" Url="html/c34c772a-4c82-3b65-d732-b2e20616c5f7.htm" />
+    <HelpKINode Title="properties" Url="html/2cad7d3a-d41b-1288-1e1e-3a83c2b7284d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UIELementActionHandler.Error property" Url="html/ed1f9a79-280a-b546-dddf-2765c8f99a1d.htm" />
+  <HelpKINode Title="UIELementActionHandler.ExecutionInfo property" Url="html/9987412b-f2ac-c6c4-e4d7-23f2cfffa1ac.htm" />
+  <HelpKINode Title="UIELementActionHandler.UIELementActionHandler constructor" Url="html/9838e51c-7ff3-1d16-89f8-606f108ba16a.htm" />
+  <HelpKINode Title="Unknown enumeration member" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="WebElement enumeration member" Url="html/dca2838f-e0a2-f312-3030-8f46ca406058.htm" />
+  <HelpKINode Title="WebPlatformActionHandler class">
+    <HelpKINode Title="WebPlatformActionHandler Class" Url="html/cb117f63-3db9-c850-98dd-e49e433c40f0.htm" />
+    <HelpKINode Title="constructor" Url="html/aa86fc99-01e9-426a-350f-32109a6a2945.htm" />
+    <HelpKINode Title="methods" Url="html/639ad228-4637-1037-4a35-7e2d3ea23bc0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WebPlatformActionHandler.HandleRunAction method" Url="html/e92c56db-07b9-f9a1-d09e-462d653b5d76.htm" />
+  <HelpKINode Title="WebPlatformActionHandler.WebPlatformActionHandler constructor" Url="html/aa86fc99-01e9-426a-350f-32109a6a2945.htm" />
+</HelpKI>
